@@ -11,4 +11,4 @@
 
 Track the full list of nutrients in government databases, and know your fitness.
 
-Chat: https://dev.nutra.tk/chat/
+See server for more info: https://nutra.tk/api/
